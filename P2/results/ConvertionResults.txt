@@ -37,5 +37,5 @@ Decimal: -50 | Binario: -110010 | Hexadecimal: -32
 Decimal: 0 | Binario: 0 | Hexadecimal: 0
 Decimal: -6 | Binario: -110 | Hexadecimal: -6
 
-Tiempo de ejecución: 0.000000 segundos
+Tiempo de ejecución: 0.001002 segundos
 Total de números convertidos: 38

@@ -5,4 +5,4 @@ MODE: 1.57638329490099e+20
 SD: 1.4460564700984703e+20
 VARIANCE: 2.0910793147136484e+40
 
-Tiempo de ejecución: 0.007534 segundos
+Tiempo de ejecuciÃ³n: 0.009361 segundos
